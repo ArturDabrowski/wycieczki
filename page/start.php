@@ -80,7 +80,7 @@
         </aside>
         
         <section class="section">
-            <header><h1>Chodz, zobaczymy co jest za górką..</h1><img src="img/sun.png"></header>
+            <header><h1>Chodź, zobaczymy co jest za górką..</h1><img src="img/sun.png"></header>
             <div id="modalS" style="<?php echo $style; ?>" >
             <form method="post">
                 <div id="dodS" style="<?php echo $style; ?>">
@@ -175,7 +175,7 @@
     </div>
                 <div id="dol"></div>
     </div> 
-            <footer><h1>Bunkrów nieee ma, ale też jest zaje yy.. fajnie :)</footer>
+            <footer><h1>Bunkrów nieee ma, ale też jest fajnie :)</footer>
     </section>
 
 
